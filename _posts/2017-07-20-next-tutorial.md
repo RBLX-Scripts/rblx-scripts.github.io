@@ -1,29 +1,17 @@
 ---
-title: The Best FF2 Script
-description: This Script Provides The Best Experience Out Of Every FF2 Script
+title: Ternix FF2 Script
+description: This Script Provides The Best Experience Out Of Every Footbal Fusion 2 Script
 categories:
  - FF2
 tags:
 ---
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+> Ternix Is The #1 Free Script Even Beating Paid Scripts [Script](https://jekyllrb.com)
 
 <!-- more -->
 
-[Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
 
-## Screenshots
 
-* Desktop
-![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
-
-* Sidebar
-
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
-
-* Sidebar (Post details page)
-
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-toc.png)
 
 * Mobile
 
