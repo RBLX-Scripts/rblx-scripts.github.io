@@ -1,8 +1,8 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: The Best FF2 Script
+description: This Script Provides The Best Experience Out Of Every FF2 Script
 categories:
- - tutorial
+ - FF2
 tags:
 ---
 
