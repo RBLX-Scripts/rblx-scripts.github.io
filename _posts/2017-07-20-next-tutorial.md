@@ -41,6 +41,16 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
 
 - **Mag Hitbox**
 
+## Preset Mags
+
+- **League**
+  
+- **Legit**
+  
+- **Regular**
+  
+- **Blatant**
+
 Set `language` field as following in site `_config.yml` to change to Chinese.
 
 ```yml
