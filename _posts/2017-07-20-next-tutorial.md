@@ -61,6 +61,60 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
   
 - **Dive Vector Distance**
 
+### QB
+
+- **QB Aimbot**
+
+- **Auto Angle**
+
+- **Auto Throw Type**
+
+- **Anti OOB**
+
+- **Anti Wobble**
+
+- **Lead Distance**
+
+### Visuals
+
+- **Show Beam**
+
+- **Show Cards**
+
+### Keybinds
+
+- **Dime**
+
+- **Mag**
+
+- **Bullet**
+
+- **Slant**
+
+### Physics
+
+- **Block Reach**
+
+- **Block Distance**
+
+- **Block Opacity**
+
+### Predictions
+
+- **Football Landing Predictions**
+
+- **QB Aim Trajectory Predictions**
+
+- **Ball Tracer**
+
+- **Optimal Jump Locations**
+
+### Enhancement
+
+
+
+
+
 Set `language` field as following in site `_config.yml` to change to Chinese.
 
 ```yml
