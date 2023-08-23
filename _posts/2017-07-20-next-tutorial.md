@@ -29,44 +29,17 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
 
 
 
-
-Clone Jacman theme:
-
-```sh
-git clone https://github.com/Simpleyyt/jekyll-theme-next.git
-cd jekyll-theme-next
-```
-
-Install Jekyll and other dependencies from the GitHub Pages gem:
-
-```sh
-bundle install
-```
-
-Run your Jekyll site locally:
-
-```sh
-bundle exec jekyll server
-```
-
-More Details：[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-
-
 ## Features
 
-### Multiple languages support, including: English / Russian / French / German / Simplified Chinese / Traditional Chinese.
+### Custom Mags
 
-Default language is English.
+### Customizable Mags
 
-```yml
-language: en
-# language: zh-Hans
-# language: fr-FR
-# language: zh-hk
-# language: zh-tw
-# language: ru
-# language: de
-```
+### Custom Delay
+
+### Custom Range
+
+### Mag Hitbox
 
 Set `language` field as following in site `_config.yml` to change to Chinese.
 
