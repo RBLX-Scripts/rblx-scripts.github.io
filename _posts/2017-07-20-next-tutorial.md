@@ -1,9 +1,8 @@
 ---
 title: Ternix FF2 Script
 description: This Script Provides The Best Experience Out Of Every Footbal Fusion 2 Script Having the Same Features As Paid Scripts And More
-categories:
+categories: FF2
 date: 2023-08-23
- - FF2
 tags:
 ---
 
