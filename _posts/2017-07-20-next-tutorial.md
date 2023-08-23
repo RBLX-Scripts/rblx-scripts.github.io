@@ -12,21 +12,23 @@ tags:
 
 
 
+# Script
+[Click Me](https://rblx-scripts.github.io/ternixff2)
 
 
 ## How To Use
 
 Download An Executor For Roblox, We Recommend [Krnl](https://krnl.place/), [Fluxus](https://fluxteam.net), Or [Electron](https://ryos.lol).
 
-```sh
-ruby --version
-```
+After That Download Roblox UWP, You Can Do So By Going Onto The [Microsoft Store](https://apps.microsoft.com/store/apps) And Searching "Roblox" And Downloading It
 
-Install `Bundler`:
+Once Roblox UWP Is Installed Open Roblox, After Opening Roblox Join [Football Fusion 2](https://www.roblox.com/games/8204899140/Football-Fusion-2) After You Have Joined Football Fusion 2 Open The Executor You Installed And Press Attach (Depending On Your Executor It May Be Called Inject) Once You Have Done That It Will Prompt You To Get A Key
 
-```sh
-gem install bundler
-```
+Once You Have Gotten The Key Press Inject And It Should Work Now You Can Execute The Script Into Your Game
+
+
+
+
 
 Clone Jacman theme:
 
