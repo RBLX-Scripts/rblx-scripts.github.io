@@ -25,7 +25,7 @@ After That Download Roblox UWP, You Can Do So By Going Onto The [Microsoft Store
 
 Once Roblox UWP Is Installed Open Roblox, After Opening Roblox Join [Football Fusion 2](https://www.roblox.com/games/8204899140/Football-Fusion-2) After You Have Joined Football Fusion 2 Open The Executor You Installed And Press Attach (Depending On Your Executor It May Be Called Inject) Once You Have Done That It Will Prompt You To Get A Key
 
-Once You Have Gotten The Key Press Inject And It Should Work Now You Can Execute The Script Into Your Game
+Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Copy The Script From The Script Section Then Paste It Into Your Executor And Execute The Script Into Your Game
 
 
 
