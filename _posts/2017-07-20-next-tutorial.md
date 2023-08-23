@@ -29,7 +29,7 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
 
 
 
-- **Features**
+## Features
 
 - **Custom Mags**
 
