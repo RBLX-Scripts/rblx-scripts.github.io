@@ -50,8 +50,8 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
-  theme: Theme
+  powered: "Powered by yippee"
+  theme: Yippee
 
 counter:
   tag_cloud:
