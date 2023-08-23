@@ -52,7 +52,7 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
+  powered: "Powered by %hello"
   theme: Theme
 
 counter:
