@@ -41,7 +41,7 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
 
 - **Mag Hitbox**
 
-## Preset Mags
+### Preset Mags
 
 - **League**
   
@@ -50,6 +50,16 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
 - **Regular**
   
 - **Blatant**
+
+### Vectors
+
+- **Pull Vector**
+  
+- **Pull Vector Distance**
+  
+- **Dive Vector**
+  
+- **Dive Vector Distance**
 
 Set `language` field as following in site `_config.yml` to change to Chinese.
 
