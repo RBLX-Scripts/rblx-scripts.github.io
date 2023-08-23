@@ -52,8 +52,8 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %hello"
-  theme: Theme
+  powered: "Powered by"
+  
 
 counter:
   tag_cloud:
