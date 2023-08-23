@@ -13,14 +13,10 @@ tags:
 
 
 
-* Mobile
 
-![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
+## How To Use
 
-
-## Installation
-
-Check whether you have `Ruby 2.1.0` or higher installed:
+Download An Executor For Roblox (We Recommend [Krnl](https://krnl.place/), [Fluxus](https://fluxteam.net), Or [Electron](https://ryos.lol)
 
 ```sh
 ruby --version
