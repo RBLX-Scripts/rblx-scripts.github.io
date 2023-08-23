@@ -29,17 +29,17 @@ Once You Have Gotten The Key Press Inject And It Should Work Now You Can Then Co
 
 
 
-**Features**
+- **Features**
 
-**Custom Mags**
+- **Custom Mags**
 
-**Customizable Mags**
+- **Customizable Mags**
 
-**Custom Delay**
+- **Custom Delay**
 
-**Custom Range**
+- **Custom Range**
 
-**Mag Hitbox**
+- **Mag Hitbox**
 
 Set `language` field as following in site `_config.yml` to change to Chinese.
 
