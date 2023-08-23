@@ -16,7 +16,7 @@ tags:
 
 ## How To Use
 
-Download An Executor For Roblox (We Recommend [Krnl](https://krnl.place/), [Fluxus](https://fluxteam.net), Or [Electron](https://ryos.lol)
+Download An Executor For Roblox, We Recommend [Krnl](https://krnl.place/), [Fluxus](https://fluxteam.net), Or [Electron](https://ryos.lol).
 
 ```sh
 ruby --version
