@@ -52,8 +52,8 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by"
-  
+  powered: "Powered by RBLX Scripts"
+  theme: yippee
 
 counter:
   tag_cloud:
