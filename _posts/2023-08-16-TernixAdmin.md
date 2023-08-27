@@ -1,6 +1,6 @@
 ---
 title: Ternix Admin Script
-description: The #1 Roblox Admin Script With Over 200 Features And Undetected In Almost Every Game
+description: The Number 1 Roblox Admin Script With Over 200 Features And Undetected In Almost Every Game
 categories: General
 date: 2023-08-16
 tags: 
